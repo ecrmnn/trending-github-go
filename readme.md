@@ -1,7 +1,7 @@
-# trending-go
+# trending-github-go
 > Simple API for getting trending repositories on GitHub
 
-[![Travis](https://img.shields.io/travis/ecrmnn/trending-go/master.svg?style=flat-square)](https://travis-ci.org/ecrmnn/trending-go/builds)
+[![Travis](https://img.shields.io/travis/ecrmnn/trending-github-go/master.svg?style=flat-square)](https://travis-ci.org/ecrmnn/trending-github-go/builds)
 
 ### Installation
 ```bash
